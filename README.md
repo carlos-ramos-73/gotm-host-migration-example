@@ -6,4 +6,6 @@ This example is applied in a lobby but the same concept can be applied in-game.
 To test this example, you can upload the export.pck into gotm or use this link to test:
 https://gotm.io/carlosramos/host-migration-example
 
+Note: Open up multiple instances to test functionality
+
 Currently using gotm's plugin version 1.0.2
